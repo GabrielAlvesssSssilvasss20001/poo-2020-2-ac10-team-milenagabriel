@@ -3,7 +3,7 @@ public class Cachorro extends Mamifero {
 
   public Cachorro() {}
 
-  public Cachorro (String nome, String habitat, int patas,boolean rabo, int dentes, boolean anda) {
+  public Cachorro (String nome, String habitat, int patas, boolean rabo, int dentes, boolean anda) {
     super(nome, habitat, patas, rabo, dentes, anda);
   }
 
